@@ -2,6 +2,9 @@
 
 A lightweight Moodle Text Filter that automatically detects URLs within course content and dynamically replaces them with rich, embedded link previews.
 
+<img width="524" height="406" alt="Screenshot 2026-06-12 at 5 55 32 PM" src="https://github.com/user-attachments/assets/c28b1188-e518-4b4a-9e91-ddf22475e1db" />
+
+
 ## Features
 * **Automatic Detection:** Scans text editor content for standard URLs.
 * **Rich Embeds:** Converts raw links into visual cards with titles, descriptions, and images (where supported by the target site).
